@@ -2,7 +2,7 @@
 
 ### Sobre mim
 - 💻 Desenvolvedor focado em **JavaScript**, **HTML**, **CSS** e outras tecnologias web.
-- 🎓 Estudante de Engenharia de Software.
+- 🎓 Estudante de Engenharia de Computação.
 - 🌱 Atualmente aprendendo **React** e **Node.js**.
 - 📫 Entre em contato: [lucasbaraldi2810@gmail.com](mailto:lucasbaraldi2810@gmail.com)
 
