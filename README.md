@@ -23,7 +23,6 @@
 - **[JDUBER](https://github.com/lukiin-z/JDUBER)** - 🚗 Sistema de logística que facilita o monitoramento de localização em tempo real.
 - **[Classificador de Resíduos](https://github.com/lukiin-z/classificador-de-residuos)** - ♻️ Web app que utiliza Machine Learning para identificar resíduos como papel, plástico e metal.
 - **[HISAI](https://github.com/lukiin-z/HISAI)** - 🧠 Assistente inteligente para HIS Logística, desenvolvido para auxiliar em automações e tarefas diversas.
-- **[jdsite](https://github.com/lukiin-z/jdsite)** - 🌐 Site de demonstração com HTML e CSS, construído para aprendizado e prática de desenvolvimento front-end.
 
 ---
 
