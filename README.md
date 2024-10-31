@@ -48,7 +48,6 @@
 
 ### ✨ Curiosidades
 - 🎶 Fã de Kanye West.
-- 🎮 Amante de jogos retro e desenvolvedor de mods para Minecraft.
 - 🤖 Explorando a aplicação de IA e automação para resolver problemas do dia a dia.
 
 ---
