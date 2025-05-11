@@ -9,10 +9,6 @@
 
 </div>
 
-<p align="center">
-  <img src="/api/placeholder/800/200" alt="Java Developer Banner">
-</p>
-
 ## 🧠 Quem Sou Eu
 
 Desenvolvedor Java apaixonado com **6 anos de experiência** transformando ideias em código de alta performance. Dominando tanto o back-end quanto áreas especializadas, sou conhecido por entregar soluções elegantes para problemas complexos.
